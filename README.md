@@ -1,1 +1,1 @@
-# cassaview
+This is an innovative web application built using the cutting-edge technologies of FastAPI, React, and OpenAPI. It revolutionises the interview preparation process by providing a simulated interview experience with advanced analytics to drive continuous improvement. Designed for B2B adoption, it caters specifically to companies' bespoke academies, enabling them to enhance their employees' interview skills and professional development.
